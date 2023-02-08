@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "726424196389",
+    "project_id": "trashtag-app--signin",
+    "storage_bucket": "trashtag-app--signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726424196389:android:8352dae41ce138f52536cc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_verification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726424196389-daq9vnjiufi1liq4usudmddjrqo76ffn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENoo4_rJ_XvTBBAE1pAYlJ-5uVz1eTmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726424196389-daq9vnjiufi1liq4usudmddjrqo76ffn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726424196389-2563p3cupmgis9siob7273hdh0nirbmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.snapchatUiClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726424196389:android:7a021f8e330f712b2536cc",
+        "android_client_info": {
+          "package_name": "com.example.snapchat_ui_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726424196389-i7bme9v951clireh8vaoe0qmvd8c3ooo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snapchat_ui_clone",
+            "certificate_hash": "d73a9c23bd8eab08992db93b8ca240ebdf0f5928"
+          }
+        },
+        {
+          "client_id": "726424196389-daq9vnjiufi1liq4usudmddjrqo76ffn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENoo4_rJ_XvTBBAE1pAYlJ-5uVz1eTmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726424196389-daq9vnjiufi1liq4usudmddjrqo76ffn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726424196389-2563p3cupmgis9siob7273hdh0nirbmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.snapchatUiClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726424196389:android:95c99a75c481ca2d2536cc",
+        "android_client_info": {
+          "package_name": "com.trashtag.trashtag_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726424196389-eaamovucqkm538fp6tb4smfah4se2nip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trashtag.trashtag_flutter",
+            "certificate_hash": "d73a9c23bd8eab08992db93b8ca240ebdf0f5928"
+          }
+        },
+        {
+          "client_id": "726424196389-daq9vnjiufi1liq4usudmddjrqo76ffn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENoo4_rJ_XvTBBAE1pAYlJ-5uVz1eTmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726424196389-daq9vnjiufi1liq4usudmddjrqo76ffn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726424196389-2563p3cupmgis9siob7273hdh0nirbmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.snapchatUiClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726424196389:android:da3da1f130eef9f52536cc",
+        "android_client_info": {
+          "package_name": "io.trashtag.trashtag_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726424196389-7ig1hivdkpv0pmd81fntfqrgshbnfmql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.trashtag.trashtag_application",
+            "certificate_hash": "d73a9c23bd8eab08992db93b8ca240ebdf0f5928"
+          }
+        },
+        {
+          "client_id": "726424196389-daq9vnjiufi1liq4usudmddjrqo76ffn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENoo4_rJ_XvTBBAE1pAYlJ-5uVz1eTmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726424196389-daq9vnjiufi1liq4usudmddjrqo76ffn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726424196389-2563p3cupmgis9siob7273hdh0nirbmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.snapchatUiClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726424196389:android:140ec26efed293262536cc",
+        "android_client_info": {
+          "package_name": "io.trashtag.trashtag_city"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726424196389-daq9vnjiufi1liq4usudmddjrqo76ffn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENoo4_rJ_XvTBBAE1pAYlJ-5uVz1eTmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726424196389-daq9vnjiufi1liq4usudmddjrqo76ffn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726424196389-2563p3cupmgis9siob7273hdh0nirbmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.snapchatUiClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
